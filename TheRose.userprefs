@@ -1,0 +1,47 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/ChildGameBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ending/AdultEndingBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ending/CameraSwitcher5.cs" Line="20" Column="17" />
+      <File FileName="Assets/Scripts/Ending/ChildEndingBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ending/Dialogue6.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InsideScene2/CameraSwitcher3.cs" Line="86" Column="37" />
+      <File FileName="Assets/Scripts/InsideScene2/ChildBehavior2.cs" Line="36" Column="50" />
+      <File FileName="Assets/Scripts/IntroGame/CameraSwitcher4.cs" Line="19" Column="27" />
+      <File FileName="Assets/Scripts/Game/GhostGameBehavior.cs" Line="31" Column="33" />
+      <File FileName="Assets/Scripts/InsideScene2/AdultBehavior2.cs" Line="28" Column="44" />
+      <File FileName="Assets/Scripts/InsideScene2/Dialogue3.cs" Line="27" Column="37" />
+      <File FileName="Assets/Scripts/Game/ChildGameBehavior.cs" Line="44" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheRose" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Ending" expanded="True" />
+                <Node name="Game" expanded="True">
+                  <Node name="ChildGameBehavior.cs" selected="True" />
+                </Node>
+                <Node name="InsideScene2" expanded="True" />
+                <Node name="IntroGame" expanded="True" />
+                <Node name="OutsideScene" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="TheRose" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
